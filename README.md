@@ -1,2 +1,2 @@
 # Hello-World2
-new template
+## Hello World is a computer program that displays "Hello World" to the user.
